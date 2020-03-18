@@ -14,5 +14,6 @@ namespace ContactManager9012402
             get { return contactBusinessTel; } //get method
             set { contactBusinessTel = value; } //set method
         }
+        //jniuni
     }
 }
